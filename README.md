@@ -14,7 +14,7 @@ Este documento examina evidências bíblicas, históricas e textuais sobre a fig
 
 ## Visualização
 
-O site está disponível em: **[paul-false-prophet](https://seu-usuario.github.io/paul-false-prophet/)**
+O site está disponível em: **[paul-false-prophet-theory](https://lucascraveiropaes.github.io/paul-false-prophet-theory/)**
 
 ## Desenvolvimento
 
@@ -22,7 +22,7 @@ Para visualizar localmente:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/paul-false-prophet.git
+git clone https://github.com/lucascraveiropaes/paul-false-prophet-theory.git
 
 # Abra no navegador
 open index.html
